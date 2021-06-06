@@ -1,7 +1,2 @@
-# git add _file/dirname_
-
-# git commit -m "desciption"
-
-# git push
-
-# (new bot token: discord.com/developers/applications)
+# link csere credentials/spotify uri, spotify dev portál
+# 14:22:51
