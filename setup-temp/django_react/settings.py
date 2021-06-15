@@ -25,7 +25,7 @@ SECRET_KEY = 'hdf&oalb$i7(%h^78=604xe475=4*-czuu+#g%=4@h80y1(f@c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0', '10.128.107.182']
 
 
 # Application definition
